@@ -75,3 +75,4 @@ scanf_format:
     db "%lf", 0
 scanf_format_int:
     db "%ld", 0
+
