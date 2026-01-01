@@ -3,6 +3,7 @@
 For a more advanced version of the currency converter in x86-64 NASM Assembly, let's add:
 
 ✅ User input for amount
+
 ✅ User selection for conversion currency
 ✅ Floating point arithmetic (FPU - x87)
 ✅ Formatted output (two decimal places)
